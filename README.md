@@ -5,6 +5,6 @@ Solved assignments and lecture notes in the [Deep Learning Specialization](https
 
 [Certificate](https://www.coursera.org/account/accomplishments/verify/RB7J4LHEWMDA) for Structuring ML projects
 
-[Certificate](https://www.coursera.org/account/accomplishments/verify/2ETP2C2TK8D9) for Improving Deep Neural Networks
+[Certificate](https://www.coursera.org/account/accomplishments/verify/2ETP2C2TK8D9) for Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 [Certificate](https://www.coursera.org/account/accomplishments/verify/WKQDUBENB266) for Neural Networks and Deep Learning
